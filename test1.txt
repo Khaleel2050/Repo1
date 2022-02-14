@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is B02D-BF9E
-
- Directory of C:\Users\DELL\Desktop\Khaleel\My GIT Project
-
-14-02-2022  22:27    <DIR>          .
-14-02-2022  22:27    <DIR>          ..
-14-02-2022  22:27                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  33,235,841,024 bytes free
+Change 1
